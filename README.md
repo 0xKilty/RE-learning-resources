@@ -10,6 +10,14 @@
 #### Programming
 - [angr](https://angr.io/) - an open-source binary analysis platform for Python 
 
+## Guides
+- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - a great video series as an introduction to binary exploitation along with going in-depth into more advanced topics
+
+- [Hack the Box: Intro to Assembly Language](https://academy.hackthebox.com/module/details/85) - an introduction to the assembly language along with surface level exploitation techniques
+
+## Papers
+- [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://ieeexplore.ieee.org/document/7546500)
+
 ## Heap Exploitation
 - [how2heap](https://github.com/shellphish/how2heap) - a repo for learning various heap exploitation techniques
 
