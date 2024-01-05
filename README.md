@@ -2,7 +2,13 @@
 > Resources to learn more about reverse engineering and binary exploitation
 
 ## Tools
+#### Disassemblers
 - [Ghidra](https://ghidra-sre.org/) - A tool developed by the NSA for reverse engineering which is widely used
+
+- [IDA Pro](https://hex-rays.com/ida-pro/) - A disassembler used for reverse engineering and debugging developed by Hex-Rays
+
+#### Programming
+- [angr](https://angr.io/) - an open-source binary analysis platform for Python 
 
 ## Heap Exploitation
 - [how2heap](https://github.com/shellphish/how2heap) - a repo for learning various heap exploitation techniques
