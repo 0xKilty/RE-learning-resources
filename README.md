@@ -1,5 +1,15 @@
 # RE-learning-resources
 > Resources to learn more about reverse engineering and binary exploitation
+## Contents
+- [Tools](#tools)
+    - [Disassemblers](#disassemblers)
+    - [Programming](#programming)
+- [Guides](#guides)
+- [CTF Challenges](#ctf-challenges)
+- [Papers](#papers)
+- [Sites](#sites)
+- [Heap Exploitation](#heap-exploitation)
+
 ## Tools
 #### Disassemblers
 - [Ghidra](https://ghidra-sre.org/) - A tool developed by the NSA for reverse engineering which is widely used
