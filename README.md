@@ -11,7 +11,7 @@
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - a great video series as an introduction to binary exploitation along with going in-depth into more advanced topics
 - [Hack the Box: Intro to Assembly Language](https://academy.hackthebox.com/module/details/85) - an introduction to the assembly language along with surface level exploitation techniques
 
-## CTF Challenges
+## CTF Challenges 
 - [crackmes](https://crackmes.one/)
 
 ## Papers   
