@@ -19,10 +19,11 @@
 
 ## Guides
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - a great video series as an introduction to binary exploitation along with going in-depth into more advanced topics
-- [Reversing Wannacry by stacksmashing](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP) - reverseing the well known malware [wannacry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#:~:text=WannaCry%20is%20a%20ransomware%20cryptoworm,WanaCrypt0r%202.0%2C%20and%20Wanna%20Decryptor.) using Ghidra
+- [Reversing Wannacry by stacksmashing](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP) - reversing the well known malware [wannacry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#:~:text=WannaCry%20is%20a%20ransomware%20cryptoworm,WanaCrypt0r%202.0%2C%20and%20Wanna%20Decryptor.) using Ghidra
 - [Hack the Box: Intro to Assembly Language](https://academy.hackthebox.com/module/details/85) - an introduction to the assembly language along with surface level exploitation techniques
 - [ctf101](https://ctf101.org/) - guides for various CTF categories including binary exploitation
 - [NSA Codebreakers](https://nsa-codebreaker.org/resources) - the NSA codebreaker challenge is a yearly challenge but the resources to learn how to solve the challenges are on their resources page
+- [exploit.education](http://exploit.education/) - provides various virtual machines that contain vulnerabilities along with explanations on the potential exploits
 
 ## CTF Challenges 
 - [crackmes](https://crackmes.one/)
