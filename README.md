@@ -11,9 +11,10 @@
 - [Heap Exploitation](#heap-exploitation)
 
 ## Tools
-#### Disassemblers
-- [Ghidra](https://ghidra-sre.org/) - A tool developed by the NSA for reverse engineering which is widely used
-- [IDA Pro](https://hex-rays.com/ida-pro/) - A disassembler used for reverse engineering and debugging developed by Hex-Rays
+#### Decomilers
+- [Ghidra](https://ghidra-sre.org/) - developed by the NSA for reverse engineering which is widely used
+- [IDA Pro](https://hex-rays.com/ida-pro/) - developed by Hex-Rays used for reverse engineering and debugging
+- [retdec](https://github.com/avast/retdec) - open source decompiler based around LLVM
 #### Programming
 - [angr](https://angr.io/) - an open-source binary analysis platform for Python, [angr examples](https://docs.angr.io/en/latest/examples.html) is very useful
 
@@ -34,7 +35,7 @@
 
 ## Sites
 - [godbolt.org](https://godbolt.org/) - see how code is compiled
-- [dogbolt.org](https://dogbolt.org/) - see how different disassemblers disassemble a binary
+- [dogbolt.org](https://dogbolt.org/) - see how different decompilers decompile an executable
 - [binvis.io](https://binvis.io/#/) - visual analysis of binary files
 
 ## Heap Exploitation
