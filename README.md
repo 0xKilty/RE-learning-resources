@@ -4,24 +4,32 @@
 - [Tools](#tools)
     - [Disassemblers](#disassemblers)
     - [Programming](#programming)
+    - [Other Tools](#other-tools)
 - [Guides](#guides)
+    - [Video Series](#video-series)
+    - [Courses](#courses)
+    - [Other Guides](#other-guides)
 - [CTF Challenges](#ctf-challenges)
 - [Papers](#papers)
 - [Sites](#sites)
 - [Heap Exploitation](#heap-exploitation)
 
 ## Tools
-#### Decomilers
+#### Decompilers
 - [Ghidra](https://ghidra-sre.org/) - developed by the NSA for reverse engineering which is widely used
 - [IDA Pro](https://hex-rays.com/ida-pro/) - developed by Hex-Rays used for reverse engineering and debugging
 - [retdec](https://github.com/avast/retdec) - open source decompiler based around LLVM
 #### Programming
 - [angr](https://angr.io/) - an open-source binary analysis platform for Python, [angr examples](https://docs.angr.io/en/latest/examples.html) is very useful
-
+#### Other Tools
+- [wrestool](https://linux.die.net/man/1/wrestool) - a tool to extract resources from Microsoft Windows binaries
 ## Guides
-- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - a great video series as an introduction to binary exploitation along with going in-depth into more advanced topics
+#### Video Series
+- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - an introduction to binary exploitation along with going in-depth into more advanced topics
 - [Reversing Wannacry by stacksmashing](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP) - reversing the well known malware [wannacry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack#:~:text=WannaCry%20is%20a%20ransomware%20cryptoworm,WanaCrypt0r%202.0%2C%20and%20Wanna%20Decryptor.) using Ghidra
+#### Courses
 - [Hack the Box: Intro to Assembly Language](https://academy.hackthebox.com/module/details/85) - an introduction to the assembly language along with surface level exploitation techniques
+#### Other Guides
 - [ctf101](https://ctf101.org/) - guides for various CTF categories including binary exploitation
 - [NSA Codebreakers](https://nsa-codebreaker.org/resources) - the NSA codebreaker challenge is a yearly challenge but the resources to learn how to solve the challenges are on their resources page
 - [exploit.education](http://exploit.education/) - provides various virtual machines that contain vulnerabilities along with explanations on the potential exploits
