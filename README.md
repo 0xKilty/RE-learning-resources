@@ -21,6 +21,7 @@
 - [retdec](https://github.com/avast/retdec) - open source decompiler based around LLVM
 #### Programming
 - [angr](https://angr.io/) - an open-source binary analysis platform for Python, [angr examples](https://docs.angr.io/en/latest/examples.html) is very useful
+- [Capstone Engine](http://www.capstone-engine.org/) - a disassembly framework with the target of becoming the ultimate disasm engine for binary analysis and reversing in the security community.
 #### Other Tools
 - [wrestool](https://linux.die.net/man/1/wrestool) - a tool to extract resources from Microsoft Windows binaries
 ## Guides
