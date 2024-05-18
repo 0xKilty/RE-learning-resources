@@ -56,6 +56,9 @@
 ## Assembly
 - [X86 Opcode and Instruction Reference](http://ref.x86asm.net/) - a reference for all x86 assembly opcodes
 
+## Ghidra
+- [Ghidra API reference](https://ghidra.re/ghidra_docs/api/ghidra/program/model/symbol/Reference.html) - documentation on Ghidra API which can be useful for scripting
+
 ## Motive
 I'm trying to learn more about reverse engineering and binary explotation but it's such an information packed subject that the resources can be overwhelming. 
 
